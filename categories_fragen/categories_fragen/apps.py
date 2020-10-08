@@ -1,4 +1,4 @@
 from django.apps import AppConfig
 
-class FragerConfig(AppConfig):
-    name = 'frager'
+class categories_fragenConfig(AppConfig):
+    name = 'categories_fragen'
